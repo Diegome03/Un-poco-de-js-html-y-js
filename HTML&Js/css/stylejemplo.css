@@ -1,0 +1,75 @@
+button{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+
+
+hr{
+    margin: 2px;
+    width: 50%;
+    position: relative;
+
+}
+
+.parent {
+    background-color:yellowgreen;
+    margin: 10px;
+    padding: 10px;
+    width: 1000px;
+    height: 100%;
+    color: white;
+    font-size: 50px;
+    border-radius: 25px;
+    border: 8px solid darkgreen;
+    list-style: none;
+    
+}
+
+.child {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    border: 5px solid black;
+    
+
+
+}
+
+.child-one {
+    background-color: cadetblue;
+    /* position: absolute; */
+    right: 0px;
+    
+}
+
+.child-two {
+    background-color: coral;
+    /* position: relative; */
+    top: 200px;
+}
+
+.child-three {
+    background-color:darkolivegreen;
+}
+
+.child-four {
+    background-color:lightgreen;
+}
+
+.child-five {
+    background-color:lightsalmon;
+}
+
+.child-six {
+    background-color:brown;
+}
+
+.erase{
+    color: white;
+    background-color: red;
+    border-radius: 10px;   
+    position: relative;
+    left: 20%;
+}
